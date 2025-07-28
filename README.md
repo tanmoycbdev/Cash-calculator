@@ -1,4 +1,4 @@
-# 💰 Cash Calculator – Android Application
+Cash Calculator – Android Application
 
 **Cash Calculator** is a simple and efficient Android application designed to help users quickly calculate total amounts based on Indian currency denominations. It is especially useful for shopkeepers, cashiers, and individuals handling physical cash regularly.
 
@@ -34,4 +34,41 @@ The core functionality of the app is powered by a website embedded using WebView
 
 To run or modify this app:
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/your-username/cash-calculator.git
+
+markdown
+Copy
+Edit
+
+2. Open the project in **Android Studio**.
+
+3. Run the following commands in terminal: 
+flutter pub get
+flutter run
+
+
+> Ensure Flutter and Android SDK are properly installed before running the app.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE] file for details.
+
+---
+
+## 🙌 Acknowledgements
+
+- Flutter Documentation
+- Android Studio Tools
+- Google WebView Plugin
+
+---
+
+## 📬 Contact
+
+For suggestions or feedback:  
+📧 thunderofsci@gmail.com
+
+---
+
