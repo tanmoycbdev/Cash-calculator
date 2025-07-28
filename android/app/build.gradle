@@ -54,11 +54,7 @@ android {
     signingConfigs {
         release {
 
-            // Define your signing configuration for the release build type
-            storeFile file("keystore.jks") // Replace with the actual path to your keystore file
-            storePassword System.getenv("KEYSTORE_PASSWORD") ?: "TC@unknowninsaa1" // Best practice: use environment variables
-            keyAlias System.getenv("KEY_ALIAS") ?: "Flutterkey-google" // Best practice: use environment variables
-            keyPassword System.getenv("KEY_PASSWORD") ?: "TC@unknowninsaa1" // Best practice: use environment variables
+         
         }
         debug {
             // Debug signing config (often automatically handled by Android Studio)
