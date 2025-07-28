@@ -1,4 +1,4 @@
-# 💰 Cash Calculator – Android Application
+Cash Calculator – Android Application
 
 **Cash Calculator** is a simple and efficient Android application designed to help users quickly calculate total amounts based on Indian currency denominations. It is especially useful for shopkeepers, cashiers, and individuals handling physical cash regularly.
 
